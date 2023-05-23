@@ -28,4 +28,4 @@ A habit tracker app
 
 #### Live demo
 
-`https://habit-tracker-wieq.onrender.com/dashboard?user=gauravmasalkar405@gmail.com`
+https://habit-tracker-wieq.onrender.com/dashboard?user=gauravmasalkar405@gmail.com
